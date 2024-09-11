@@ -1,0 +1,411 @@
+{
+    "burgers": [
+        {
+            "burgerName": "Classic Beef Burger",
+            "price": 1500,
+            "calories": 600,
+            "ingredients": [
+                "Beef patty",
+                "Lettuce",
+                "Tomato",
+                "Onion",
+                "Pickles",
+                "Cheese",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Vegetarian Burger",
+            "price": 1200,
+            "calories": 450,
+            "ingredients": [
+                "Veggie patty",
+                "Lettuce",
+                "Tomato",
+                "Onion",
+                "Pickles",
+                "Cheese",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Spicy Chicken Burger",
+            "price": 1400,
+            "calories": 550,
+            "ingredients": [
+                "Grilled chicken breast",
+                "Lettuce",
+                "Tomato",
+                "Spicy sauce",
+                "Pickles",
+                "Cheese",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Mushroom Swiss Burger",
+            "price": 1350,
+            "calories": 500,
+            "ingredients": [
+                "Beef patty",
+                "Sauteed mushrooms",
+                "Swiss cheese",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "BBQ Bacon Burger",
+            "price": 1600,
+            "calories": 700,
+            "ingredients": [
+                "Beef patty",
+                "Bacon",
+                "BBQ sauce",
+                "Cheddar cheese",
+                "Lettuce",
+                "Tomato",
+                "Onion",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Greek Lamb Burger",
+            "price": 1700,
+            "calories": 620,
+            "ingredients": [
+                "Lamb patty",
+                "Feta cheese",
+                "Kalamata olives",
+                "Lettuce",
+                "Tomato",
+                "Tzatziki sauce",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Cajun Turkey Burger",
+            "price": 1450,
+            "calories": 480,
+            "ingredients": [
+                "Turkey patty",
+                "Cajun seasoning",
+                "Pepper jack cheese",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Hawaiian Chicken Burger",
+            "price": 1550,
+            "calories": 540,
+            "ingredients": [
+                "Grilled chicken breast",
+                "Pineapple slice",
+                "Teriyaki sauce",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Portobello Mushroom Burger",
+            "price": 1300,
+            "calories": 400,
+            "ingredients": [
+                "Portobello mushroom cap",
+                "Grilled red pepper",
+                "Goat cheese",
+                "Arugula",
+                "Balsamic glaze",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Salmon Burger",
+            "price": 1800,
+            "calories": 620,
+            "ingredients": [
+                "Grilled salmon patty",
+                "Avocado",
+                "Lemon dill sauce",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Bacon Guacamole Burger",
+            "price": 1650,
+            "calories": 680,
+            "ingredients": [
+                "Beef patty",
+                "Bacon",
+                "Guacamole",
+                "Cheddar cheese",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Buffalo Chicken Burger",
+            "price": 1550,
+            "calories": 600,
+            "ingredients": [
+                "Grilled chicken breast",
+                "Buffalo sauce",
+                "Blue cheese dressing",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Caprese Burger",
+            "price": 1400,
+            "calories": 480,
+            "ingredients": [
+                "Beef patty",
+                "Mozzarella cheese",
+                "Tomato",
+                "Fresh basil leaves",
+                "Balsamic glaze",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Teriyaki Beef Burger",
+            "price": 1600,
+            "calories": 620,
+            "ingredients": [
+                "Beef patty",
+                "Teriyaki sauce",
+                "Pineapple slice",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Mediterranean Lamb Burger",
+            "price": 1750,
+            "calories": 650,
+            "ingredients": [
+                "Lamb patty",
+                "Feta cheese",
+                "Cucumber",
+                "Red onion",
+                "Tzatziki sauce",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Black Bean Veggie Burger",
+            "price": 1300,
+            "calories": 420,
+            "ingredients": [
+                "Black bean patty",
+                "Avocado",
+                "Lettuce",
+                "Tomato",
+                "Chipotle mayo",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Italian Sausage Burger",
+            "price": 1550,
+            "calories": 580,
+            "ingredients": [
+                "Italian sausage patty",
+                "Grilled peppers and onions",
+                "Provolone cheese",
+                "Marinara sauce",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Tex-Mex Beef Burger",
+            "price": 1650,
+            "calories": 640,
+            "ingredients": [
+                "Beef patty",
+                "Pepper jack cheese",
+                "Guacamole",
+                "Salsa",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Honey Mustard Chicken Burger",
+            "price": 1500,
+            "calories": 550,
+            "ingredients": [
+                "Grilled chicken breast",
+                "Honey mustard sauce",
+                "Bacon",
+                "Swiss cheese",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Pesto Turkey Burger",
+            "price": 1450,
+            "calories": 520,
+            "ingredients": [
+                "Turkey patty",
+                "Pesto sauce",
+                "Mozzarella cheese",
+                "Sun-dried tomatoes",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Jalapeno Popper Burger",
+            "price": 1600,
+            "calories": 620,
+            "ingredients": [
+                "Beef patty",
+                "Cream cheese",
+                "Jalapeno peppers",
+                "Bacon",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Mushroom Swiss Turkey Burger",
+            "price": 1450,
+            "calories": 550,
+            "ingredients": [
+                "Turkey patty",
+                "Sauteed mushrooms",
+                "Swiss cheese",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Southwest Chipotle Burger",
+            "price": 1550,
+            "calories": 580,
+            "ingredients": [
+                "Beef patty",
+                "Chipotle mayo",
+                "Pepper jack cheese",
+                "Avocado",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Honey BBQ Chicken Burger",
+            "price": 1500,
+            "calories": 560,
+            "ingredients": [
+                "Grilled chicken breast",
+                "Honey BBQ sauce",
+                "Bacon",
+                "Cheddar cheese",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Crispy Chicken Ranch Burger",
+            "price": 1400,
+            "calories": 540,
+            "ingredients": [
+                "Crispy chicken patty",
+                "Ranch dressing",
+                "Bacon",
+                "Cheddar cheese",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Greek Chicken Burger",
+            "price": 1600,
+            "calories": 590,
+            "ingredients": [
+                "Grilled chicken breast",
+                "Feta cheese",
+                "Kalamata olives",
+                "Lettuce",
+                "Tomato",
+                "Tzatziki sauce",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "California Turkey Burger",
+            "price": 1550,
+            "calories": 570,
+            "ingredients": [
+                "Turkey patty",
+                "Avocado",
+                "Swiss cheese",
+                "Sprouts",
+                "Tomato",
+                "Honey mustard",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Sweet and Spicy Pork Burger",
+            "price": 1650,
+            "calories": 630,
+            "ingredients": [
+                "Pork patty",
+                "Pineapple salsa",
+                "Jalapeno slices",
+                "Pepper jack cheese",
+                "Lettuce",
+                "Tomato",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "Truffle Mushroom Burger",
+            "price": 1700,
+            "calories": 640,
+            "ingredients": [
+                "Beef patty",
+                "Truffle aioli",
+                "Sauteed mushrooms",
+                "Swiss cheese",
+                "Arugula",
+                "Burger bun"
+            ]
+        },
+        {
+            "burgerName": "BBQ Pulled Pork Burger",
+            "price": 1600,
+            "calories": 620,
+            "ingredients": [
+                "Pulled pork",
+                "BBQ sauce",
+                "Coleslaw",
+                "Pickles",
+                "Burger bun"
+            ]
+        }
+    ]
+}
